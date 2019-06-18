@@ -1,0 +1,26 @@
+{
+  "legos": [
+    {
+      "legoCreation": "truck",
+      "id": 1
+    },
+    {
+      "legoCreation": "",
+      "id": 2
+    },
+    {
+      "creator": "jeff",
+      "color": "red",
+      "shape": "square",
+      "creation": "truck",
+      "id": 3
+    },
+    {
+      "creator": "renee",
+      "color": "blue",
+      "shape": "circle",
+      "creation": "car",
+      "id": 4
+    }
+  ]
+}
